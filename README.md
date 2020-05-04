@@ -9,6 +9,8 @@ You can run this code after checkoutd
 
 you can see test results
 
+``` 
+
 [INFO] Scanning for projects...
 [INFO]
 [INFO] -------------------< com.example:trendyol-shopping >--------------------
@@ -92,3 +94,4 @@ DeliveryCost: 7.99
 [INFO] Total time:  5.758 s
 [INFO] Finished at: 2020-05-04T11:05:04+03:00
 [INFO] ------------------------------------------------------------------------
+```
